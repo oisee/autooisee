@@ -1,6 +1,8 @@
-# Autosiril - MIDI to AY-3-8910 Converter
+# Autooisee - MIDI to AY-3-8910 Converter
 
-Autosiril converts MIDI files into chiptune music for the AY-3-8910/YM2149 sound chip. It outputs both **VortexTracker II** text format (3 hardware channels) and **Bitphase `.btp`** format (unlimited virtual channels with per-channel echo).
+> Successor of [autosiril](https://github.com/oisee/autosiril) (conserved). All new development happens here.
+
+Autooisee converts MIDI files into chiptune music for the AY-3-8910/YM2149 sound chip. It outputs both **VortexTracker II** text format (3 hardware channels) and **Bitphase `.btp`** format (unlimited virtual channels with per-channel echo).
 
 ```
                               MIDI file
