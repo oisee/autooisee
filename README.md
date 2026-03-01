@@ -1,8 +1,10 @@
-# Autooisee - MIDI to AY-3-8910 Converter
+# Autooisee - MIDI to Bitphase Converter (and VortexTracker II)
 
 > Successor of [autosiril](https://github.com/oisee/autosiril) (conserved). All new development happens here.
 
-Autooisee converts MIDI files into chiptune music for the AY-3-8910/YM2149 sound chip. It outputs both **VortexTracker II** text format (3 hardware channels) and **Bitphase `.btp`** format (unlimited virtual channels with per-channel echo).
+Autooisee converts MIDI files into chiptune music for the AY-3-8910/YM2149 sound chip. Primary output is **[Bitphase](https://github.com/oisee/bitphase) `.btp`** format (unlimited virtual channels with per-channel echo). Also outputs **VortexTracker II** text format (3 hardware channels).
+
+**Bitphase**: [paator/bitphase](https://github.com/paator/bitphase) (original by paator) | [oisee/bitphase](https://github.com/oisee/bitphase) (fork by oisee)
 
 ```
                               MIDI file
